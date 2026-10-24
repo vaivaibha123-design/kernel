@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#f8fafc" rx="16"/>
+  <!-- Motherboard PCB -->
+  <rect x="60" y="30" width="280" height="240" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="3"/>
+  <!-- AM5 CPU Socket -->
+  <rect x="150" y="70" width="85" height="85" rx="4" fill="#cbd5e1" stroke="#64748b" stroke-width="2"/>
+  <rect x="160" y="80" width="65" height="65" fill="#94a3b8"/>
+  <text x="192" y="117" font-family="sans-serif" font-size="10" fill="#1e293b" font-weight="bold" text-anchor="middle">AM5</text>
+  <!-- Extended VRM Heatsink Top & Left -->
+  <rect x="140" y="42" width="105" height="22" rx="3" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+  <rect x="75" y="65" width="60" height="95" rx="3" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="105" y="115" font-family="sans-serif" font-size="11" fill="#3b82f6" font-weight="900" transform="rotate(-90 105,115)">MSI GAMING</text>
+  <!-- DDR5 Slots -->
+  <g fill="#1e293b" stroke="#475569" stroke-width="1">
+    <rect x="255" y="60" width="10" height="110" rx="1"/>
+    <rect x="270" y="60" width="10" height="110" rx="1"/>
+    <rect x="285" y="60" width="10" height="110" rx="1"/>
+    <rect x="300" y="60" width="10" height="110" rx="1"/>
+  </g>
+  <!-- Steel Armor PCIe 4.0 x16 Slot -->
+  <rect x="100" y="180" width="170" height="14" rx="2" fill="#94a3b8" stroke="#cbd5e1" stroke-width="1.5"/>
+  <rect x="100" y="215" width="150" height="10" rx="2" fill="#334155"/>
+  <!-- M.2 Shield Frozr Heatsink -->
+  <rect x="130" y="162" width="110" height="14" rx="2" fill="#1e293b" stroke="#22c55e" stroke-width="1"/>
+  <text x="185" y="172" font-family="sans-serif" font-size="7" fill="#4ade80" text-anchor="middle">LIGHTNING GEN 4</text>
+  <!-- Chipset Heatsink with MSI Dragon Pattern -->
+  <rect x="250" y="195" width="70" height="55" rx="4" fill="#1e293b" stroke="#2563eb" stroke-width="2"/>
+  <text x="285" y="225" font-family="sans-serif" font-size="10" fill="#60a5fa" font-weight="bold" text-anchor="middle">B650</text>
+  <text x="285" y="238" font-family="sans-serif" font-size="8" fill="#94a3b8" text-anchor="middle">WIFI 6E</text>
+</svg>
