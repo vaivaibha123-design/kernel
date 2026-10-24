@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 KERNEL - PC Hardware, Marketplace, PC Builder & Repair Platform
 
 Kernel is a production-ready, full-stack e-commerce, custom PC builder, resale, and hardware repair platform built with **React (Vite + Tailwind CSS)** on the frontend and **Java (Spring Boot 3 REST API)** on the backend, connected to **MySQL**.
@@ -218,3 +219,6 @@ You can instantly switch between user roles directly from the top black banner i
 - **Regular User (Vaibhav Singh)**: Can browse, check out, track orders, build custom PCs, and sell hardware.
 - **Agent (Apex Tech Wholesale)**: Access to the B2B Wholesale Portal and bulk payout analytics.
 - **Admin (Kernel Administrator)**: Full access to the Admin Management Console, sales metrics, and warehouse inventory stock alerts.
+=======
+# kernel
+>>>>>>> 3de6febecf1c57a6d66b873b129a63e404d93e80
